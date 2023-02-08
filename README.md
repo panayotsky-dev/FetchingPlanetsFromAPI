@@ -1,4 +1,1 @@
-# ⚙ HTML, CSS and SASS Boilerplate 
-This project is used as a boilerplate for tasks in the "HTML, CSS and SASS" course in boom.dev
-
-🤯💥💣
+![alt text](https://github.com/panayotsky-dev/asyncPlanets/blob/master/fetched.png?raw=true)
